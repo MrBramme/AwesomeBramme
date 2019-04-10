@@ -2,6 +2,9 @@
 
 This is a list of interesting frameworks/projects/apps I've come across and don't want to forget. I've tried to sort them to categories that made sense at the time of writing this and added tags as I went along.
 
+# General
+- [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 # .NET
 
 - [Fluent Scheduler](https://github.com/fluentscheduler/FluentScheduler): A fluent jobmanager
@@ -12,5 +15,7 @@ This is a list of interesting frameworks/projects/apps I've come across and don'
 # Home Assistant
 
 - [ESPHome](https://esphome.io/index.html): Custom firmware for ESP based devices.
+- [NodeRED](https://nodered.org): Node red for automations etc
+- [Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt): Zigbee 2 MQTT
 
 
