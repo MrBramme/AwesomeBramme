@@ -16,6 +16,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Dapper](https://github.com/StackExchange/Dapper): ORM
 - [EPPlus](https://github.com/JanKallman/EPPlus): Excel file editor
 - [Fluent Scheduler](https://github.com/fluentscheduler/FluentScheduler): A fluent jobmanager
+- [Humanizer](https://github.com/Humanizr/Humanizer): Manipulate strings, dates, enums, ...
 - [Humidifier](https://github.com/jakejscott/Humidifier): AWS Cloudformation using C#
 - [Log4Net](http://logging.apache.org/log4net/): Logging for all
 - [Math.Net](https://numerics.mathdotnet.com): Maths
