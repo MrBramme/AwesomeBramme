@@ -21,6 +21,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Moq](https://github.com/moq/moq4): Mocking framework
 - [MQTT.Net](https://github.com/chkr1011/MQTTnet): MQTT stuff
 - [Polly.Net](https://github.com/App-vNext/Polly): Resilience and transient-fault-handling library
+- [RestSharp](http://restsharp.org): Simple HTTP Client
 - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle): Add swag(ger) to you API
 - [System.IO.Abstractions](https://github.com/System-IO-Abstractions/System.IO.Abstractions): Mock the filesystem!
 - [Valit](https://github.com/valit-stack/Valit): Validations for .net core
