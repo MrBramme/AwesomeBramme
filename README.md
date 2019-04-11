@@ -10,6 +10,7 @@ I added some examples ordered in folders by programming language which helped me
 
 - [Autofac](https://autofac.org): IOC
 - [Dapper](https://github.com/StackExchange/Dapper): ORM
+- [EPPlus](https://github.com/JanKallman/EPPlus): Excel file editor
 - [Fluent Scheduler](https://github.com/fluentscheduler/FluentScheduler): A fluent jobmanager
 - [Humidifier](https://github.com/jakejscott/Humidifier): AWS Cloudformation using C#
 - [Log4Net](http://logging.apache.org/log4net/): Logging for all
