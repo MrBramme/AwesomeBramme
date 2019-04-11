@@ -8,6 +8,8 @@ I added some examples ordered in folders by programming language which helped me
 
 # .NET
 
+- [Autofac](https://autofac.org): IOC
+- [Dapper](https://github.com/StackExchange/Dapper): ORM
 - [Fluent Scheduler](https://github.com/fluentscheduler/FluentScheduler): A fluent jobmanager
 - [Humidifier](https://github.com/jakejscott/Humidifier): AWS Cloudformation using C#
 - [Polly.Net](https://github.com/App-vNext/Polly): Resilience and transient-fault-handling library
