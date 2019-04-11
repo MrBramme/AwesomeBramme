@@ -1,6 +1,7 @@
 # Interesting stuff
 
 This is a list of interesting frameworks/projects/apps I've come across and don't want to forget. I've tried to sort them to categories that made sense at the time of writing this and added tags as I went along.
+I added some examples ordered in folders by programming language which helped me out as well.
 
 # General
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
