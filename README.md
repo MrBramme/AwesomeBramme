@@ -17,6 +17,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Humidifier](https://github.com/jakejscott/Humidifier): AWS Cloudformation using C#
 - [Log4Net](http://logging.apache.org/log4net/): Logging for all
 - [Polly.Net](https://github.com/App-vNext/Polly): Resilience and transient-fault-handling library
+- [System.IO.Abstractions](https://github.com/System-IO-Abstractions/System.IO.Abstractions): Mock the filesystem!
 - [Valit](https://github.com/valit-stack/Valit): Validations for .net core
 
 # Home Assistant
