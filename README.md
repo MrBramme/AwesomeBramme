@@ -17,6 +17,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Fluent Scheduler](https://github.com/fluentscheduler/FluentScheduler): A fluent jobmanager
 - [Humidifier](https://github.com/jakejscott/Humidifier): AWS Cloudformation using C#
 - [Log4Net](http://logging.apache.org/log4net/): Logging for all
+- [Math.Net](https://numerics.mathdotnet.com): Maths
 - [Moq](https://github.com/moq/moq4): Mocking framework
 - [Polly.Net](https://github.com/App-vNext/Polly): Resilience and transient-fault-handling library
 - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle): Add swag(ger) to you API
