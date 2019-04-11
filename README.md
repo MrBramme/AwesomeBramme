@@ -11,6 +11,7 @@ I added some examples ordered in folders by programming language which helped me
 
 - [Autofac](https://autofac.org): IOC
 - [AutoMapper](http://automapper.org): Object mapping made easy
+- [CsvHelper](https://github.com/JoshClose/CsvHelper): Csv made easy
 - [Dapper](https://github.com/StackExchange/Dapper): ORM
 - [EPPlus](https://github.com/JanKallman/EPPlus): Excel file editor
 - [Fluent Scheduler](https://github.com/fluentscheduler/FluentScheduler): A fluent jobmanager
