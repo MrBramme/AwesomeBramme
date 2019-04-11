@@ -12,6 +12,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Dapper](https://github.com/StackExchange/Dapper): ORM
 - [Fluent Scheduler](https://github.com/fluentscheduler/FluentScheduler): A fluent jobmanager
 - [Humidifier](https://github.com/jakejscott/Humidifier): AWS Cloudformation using C#
+- [Log4Net](http://logging.apache.org/log4net/): Logging for all
 - [Polly.Net](https://github.com/App-vNext/Polly): Resilience and transient-fault-handling library
 - [Valit](https://github.com/valit-stack/Valit): Validations for .net core
 
