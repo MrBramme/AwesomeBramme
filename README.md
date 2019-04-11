@@ -19,6 +19,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Log4Net](http://logging.apache.org/log4net/): Logging for all
 - [Math.Net](https://numerics.mathdotnet.com): Maths
 - [Moq](https://github.com/moq/moq4): Mocking framework
+- [MQTT.Net](https://github.com/chkr1011/MQTTnet): MQTT stuff
 - [Polly.Net](https://github.com/App-vNext/Polly): Resilience and transient-fault-handling library
 - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle): Add swag(ger) to you API
 - [System.IO.Abstractions](https://github.com/System-IO-Abstractions/System.IO.Abstractions): Mock the filesystem!
