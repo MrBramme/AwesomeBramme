@@ -38,3 +38,7 @@ I added some examples ordered in folders by programming language which helped me
 
 # Front-End
 - [CoreUI](https://coreui.io/): UI framework based on bootstrap
+
+# Principles
+- [Architecture principles .net](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/architectural-principles)
+- [Architecture guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
