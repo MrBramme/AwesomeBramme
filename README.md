@@ -55,3 +55,6 @@ I added some examples ordered in folders by programming language which helped me
 
 # PowerShell
 - [PSKoans](https://github.com/vexx32/PSKoans): Learning PowerShell
+
+# Video / Tutorials
+- [NDC - Hanselman, Skeet, Allen](https://www.youtube.com/watch?v=H2KkiRbDZyc&feature=youtu.be): Very interesting insights into IENumerable vs IQueriable
