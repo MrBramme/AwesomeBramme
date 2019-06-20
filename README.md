@@ -8,6 +8,10 @@ I added some examples ordered in folders by programming language which helped me
 - [Redis](https://redislabs.com): In-Memory database
 - [Handy cheatsheets](https://devhints.io): Various cheatsheets
 
+# AWS
+- [AWS blog](https://alestic.com): Cool blog about AWS things
+- [SAWS](https://github.com/donnemartin/saws): Another AWS CLI
+
 # .NET
 
 - [Autofac](https://autofac.org): IOC
