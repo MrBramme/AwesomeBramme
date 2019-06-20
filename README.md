@@ -23,6 +23,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Moq](https://github.com/moq/moq4): Mocking framework
 - [MQTT.Net](https://github.com/chkr1011/MQTTnet): MQTT stuff
 - [NCrontab](https://github.com/atifaziz/NCrontab): Parse CRON
+- [OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core): Owasp headers for .NET core apps
 - [Polly.Net](https://github.com/App-vNext/Polly): Resilience and transient-fault-handling library
 - [RestSharp](http://restsharp.org): Simple HTTP Client
 - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle): Add swag(ger) to you API
