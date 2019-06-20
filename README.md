@@ -6,6 +6,7 @@ I added some examples ordered in folders by programming language which helped me
 # General
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Redis](https://redislabs.com): In-Memory database
+- [Handy cheatsheets](https://devhints.io): Various cheatsheets
 
 # .NET
 
