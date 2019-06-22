@@ -53,6 +53,9 @@ I added some examples ordered in folders by programming language which helped me
 # Linux
 - [Nginx reverse proxy](https://www.htpcguides.com/secure-nginx-reverse-proxy-with-lets-encrypt-on-ubuntu-16-04-lts/): Tutorial how to set up a reverse proxy with nginx on Ubuntu
 
+# Docker
+- [LiGet](https://github.com/ai-traders/liget): NuGet server and cache running on kestrel in docker
+
 # PowerShell
 - [PSKoans](https://github.com/vexx32/PSKoans): Learning PowerShell
 
