@@ -64,3 +64,4 @@ I added some examples ordered in folders by programming language which helped me
 
 # Video / Tutorials
 - [NDC - Hanselman, Skeet, Allen](https://www.youtube.com/watch?v=H2KkiRbDZyc&feature=youtu.be): Very interesting insights into IENumerable vs IQueriable
+- [NDC - DDD talk](https://www.youtube.com/watch?v=U6CeaA-Phqo): Domain Driven Design: The Good Parts - Jimmy Bogard
