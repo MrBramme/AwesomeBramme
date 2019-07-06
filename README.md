@@ -31,6 +31,7 @@ I added some examples ordered in folders by programming language which helped me
 - [OwaspHeaders.Core](https://github.com/GaProgMan/OwaspHeaders.Core): Owasp headers for .NET core apps
 - [Polly.Net](https://github.com/App-vNext/Polly): Resilience and transient-fault-handling library
 - [Puppeteer-sharp](https://github.com/kblok/puppeteer-sharp): Headless chrome
+- [ReportGenerator](https://danielpalme.github.io/ReportGenerator/): Generate test reports
 - [RestSharp](http://restsharp.org): Simple HTTP Client
 - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle): Add swag(ger) to you API
 - [System.IO.Abstractions](https://github.com/System-IO-Abstractions/System.IO.Abstractions): Mock the filesystem!
