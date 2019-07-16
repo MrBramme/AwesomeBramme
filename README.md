@@ -14,6 +14,7 @@ I added some examples ordered in folders by programming language which helped me
 
 # .NET
 
+- [Async info](https://kudchikarsk.com/tasks-in-csharp/csharp-task/): An interesting read on c# task
 - [Autofac](https://autofac.org): IOC
 - [AutoMapper](http://automapper.org): Object mapping made easy
 - [CommandLineParser](https://github.com/commandlineparser/commandline): Parse arguments for the CLI
