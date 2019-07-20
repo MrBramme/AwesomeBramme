@@ -38,6 +38,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle): Add swag(ger) to you API
 - [System.IO.Abstractions](https://github.com/System-IO-Abstractions/System.IO.Abstractions): Mock the filesystem!
 - [TaskScheduler](https://github.com/dahall/taskscheduler): Task scheduling in code
+- [Unit test naming convention](https://osherove.com/blog/2005/4/3/naming-standards-for-unit-tests.html): Unit test naming convention
 - [Valit](https://github.com/valit-stack/Valit): Validations for .net core
 - [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode): .NET youtube library
 
