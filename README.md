@@ -64,8 +64,10 @@ I added some examples ordered in folders by programming language which helped me
 - [LiGet](https://github.com/ai-traders/liget): NuGet server and cache running on kestrel in docker
 
 # PowerShell
+- [Interactive CLI](https://adamtheautomator.com/build-powershell-menu/): how to add a "menu" to the cli
 - [PSKoans](https://github.com/vexx32/PSKoans): Learning PowerShell
 - [POSHGUI](https://poshgui.com): winform gui on ps
+- [Timers](https://ephos.github.io/posts/2018-8-20-Timers): Using stopwatch in powershell
 
 # Video / Tutorials
 - [NDC - Hanselman, Skeet, Allen](https://www.youtube.com/watch?v=H2KkiRbDZyc&feature=youtu.be): Very interesting insights into IENumerable vs IQueriable
