@@ -64,6 +64,7 @@ I added some examples ordered in folders by programming language which helped me
 - [LiGet](https://github.com/ai-traders/liget): NuGet server and cache running on kestrel in docker
 
 # PowerShell
+- [AWS cli to PS](https://aws-cli-eq-pwsh.shibata.tech/): A mapping between CLI and PS commands for AWS
 - [Interactive CLI](https://adamtheautomator.com/build-powershell-menu/): how to add a "menu" to the cli
 - [PSKoans](https://github.com/vexx32/PSKoans): Learning PowerShell
 - [POSHGUI](https://poshgui.com): winform gui on ps
