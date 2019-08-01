@@ -36,6 +36,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Polly.Net](https://github.com/App-vNext/Polly): Resilience and transient-fault-handling library
 - [Puppeteer-sharp](https://github.com/kblok/puppeteer-sharp): Headless chrome
 - [ReportGenerator](https://danielpalme.github.io/ReportGenerator/): Generate test reports
+- [Resharper CLI](https://www.youtube.com/watch?v=nHb-hb4teVI&feature=youtu.be): Resharper CLI tools for code analysis
 - [RestSharp](http://restsharp.org): Simple HTTP Client
 - [Sharprompt](https://github.com/shibayan/Sharprompt): Interactive c# toolkit for dotnet core
 - [SonarQube](https://www.sonarqube.org/): Code analysis tool
