@@ -7,6 +7,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Redis](https://redislabs.com): In-Memory database
 - [Handy cheatsheets](https://devhints.io): Various cheatsheets
+- [Handy documentation](https://devdocs.io/): Various documentation sheets (enable them to avoid 404)
 
 # AWS
 - [AWS blog](https://alestic.com): Cool blog about AWS things
