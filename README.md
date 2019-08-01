@@ -38,6 +38,7 @@ I added some examples ordered in folders by programming language which helped me
 - [ReportGenerator](https://danielpalme.github.io/ReportGenerator/): Generate test reports
 - [RestSharp](http://restsharp.org): Simple HTTP Client
 - [Sharprompt](https://github.com/shibayan/Sharprompt): Interactive c# toolkit for dotnet core
+- [SonarQube](https://www.sonarqube.org/): Code analysis tool
 - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle): Add swag(ger) to you API
 - [System.IO.Abstractions](https://github.com/System-IO-Abstractions/System.IO.Abstractions): Mock the filesystem!
 - [TaskScheduler](https://github.com/dahall/taskscheduler): Task scheduling in code
