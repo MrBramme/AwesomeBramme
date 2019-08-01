@@ -60,6 +60,7 @@ I added some examples ordered in folders by programming language which helped me
 # Principles
 - [Architecture principles .net](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/architectural-principles)
 - [Architecture guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
+- [Feature toggles](https://martinfowler.com/articles/feature-toggles.html): documenation on feature toggles
 
 # Linux
 - [Nginx reverse proxy](https://www.htpcguides.com/secure-nginx-reverse-proxy-with-lets-encrypt-on-ubuntu-16-04-lts/): Tutorial how to set up a reverse proxy with nginx on Ubuntu
