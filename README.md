@@ -60,6 +60,7 @@ I added some examples ordered in folders by programming language which helped me
 # Principles
 - [Architecture principles .net](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/architectural-principles)
 - [Architecture guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
+- [Code review guidelines](https://google.github.io/eng-practices/review/reviewer/): Code review principles of google
 - [Feature toggles](https://martinfowler.com/articles/feature-toggles.html): documenation on feature toggles
 
 # Linux
