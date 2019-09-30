@@ -69,6 +69,8 @@ I added some examples ordered in folders by programming language which helped me
 
 # Docker
 - [LiGet](https://github.com/ai-traders/liget): NuGet server and cache running on kestrel in docker
+- [Docker ELK](https://github.com/deviantony/docker-elk): ELK stack on docker
+- [ElastDocker](https://github.com/sherifabdlnaby/elastdocker): Another ELK stack on docker
 
 # PowerShell
 - [AWS cli to PS](https://aws-cli-eq-pwsh.shibata.tech/): A mapping between CLI and PS commands for AWS
