@@ -5,6 +5,7 @@ I added some examples ordered in folders by programming language which helped me
 
 # General
 - [Dash](https://kapeli.com/dash): Mac - API Documentation Browser
+- [Dotnet Tools List](https://natemcmaster.github.io/dotnet-tools/): List of various dotnet-tools
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Redis](https://redislabs.com): In-Memory database
 - [Handy cheatsheets](https://devhints.io): Various cheatsheets
