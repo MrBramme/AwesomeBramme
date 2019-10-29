@@ -11,6 +11,10 @@ I added some examples ordered in folders by programming language which helped me
 - [Handy cheatsheets](https://devhints.io): Various cheatsheets
 - [Handy documentation](https://devdocs.io/): Various documentation sheets (enable them to avoid 404)
 
+# Git
+- [Git-Fork](https://www.git-fork.com): A UI for git on Mac & Windows
+- [git-extensions](https://gitextensions.github.io): a UI for git on Windows
+
 # AWS
 - [AWS blog](https://alestic.com): Cool blog about AWS things
 - [SAWS](https://github.com/donnemartin/saws): Another AWS CLI
