@@ -4,6 +4,7 @@ This is a list of interesting frameworks/projects/apps I've come across and don'
 I added some examples ordered in folders by programming language which helped me out as well.
 
 # General
+- [ChangeLog tips](https://keepachangelog.com/en/1.0.0/): Various tips on what should & shouldn't be in changelogs
 - [Dash](https://kapeli.com/dash): Mac - API Documentation Browser
 - [Dotnet Tools List](https://natemcmaster.github.io/dotnet-tools/): List of various dotnet-tools
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
