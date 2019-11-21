@@ -15,7 +15,9 @@ I added some examples ordered in folders by programming language which helped me
 
 # Git
 - [Git-Fork](https://www.git-fork.com): A UI for git on Mac & Windows
-- [git-extensions](https://gitextensions.github.io): a UI for git on Windows
+- [Git-extensions](https://gitextensions.github.io): a UI for git on Windows
+- [Git Tips](https://github.com/git-tips/tips): a list of git tips
+- [Git workflows Podcast](https://www.codingblocks.net/podcast/comparing-git-workflows/#more-4379): Great podcast on git workflows
 
 # AWS
 - [AWS blog](https://alestic.com): Cool blog about AWS things
