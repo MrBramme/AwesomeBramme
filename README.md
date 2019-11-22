@@ -6,6 +6,7 @@ I added some examples ordered in folders by programming language which helped me
 # General
 - [ChangeLog tips](https://keepachangelog.com/en/1.0.0/): Various tips on what should & shouldn't be in changelogs
 - [Dash](https://kapeli.com/dash): Mac - API Documentation Browser
+- [Database comparison](https://db-engines.com/en/system/Couchbase%3BMongoDB%3BMySQL%3BPostgreSQL): compare db engines here
 - [Devops checklist](http://devopschecklist.com): the devops checklist
 - [Dotnet Tools List](https://natemcmaster.github.io/dotnet-tools/): List of various dotnet-tools
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
