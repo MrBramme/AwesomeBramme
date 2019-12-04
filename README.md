@@ -4,6 +4,7 @@ This is a list of interesting frameworks/projects/apps I've come across and don'
 I added some examples ordered in folders by programming language which helped me out as well.
 
 # General
+- [AdventOfCode](https://adventofcode.com): fun coding challenges
 - [ChangeLog tips](https://keepachangelog.com/en/1.0.0/): Various tips on what should & shouldn't be in changelogs
 - [Dash](https://kapeli.com/dash): Mac - API Documentation Browser
 - [Database comparison](https://db-engines.com/en/system/Couchbase%3BMongoDB%3BMySQL%3BPostgreSQL): compare db engines here
