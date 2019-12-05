@@ -12,6 +12,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Dotnet Tools List](https://natemcmaster.github.io/dotnet-tools/): List of various dotnet-tools
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Redis](https://redislabs.com): In-Memory database
+- [tldr man pages](https://tldr.sh/); short & handy summary of the very long man pages
 - [Handy cheatsheets](https://devhints.io): Various cheatsheets
 - [Handy documentation](https://devdocs.io/): Various documentation sheets (enable them to avoid 404)
 
