@@ -15,6 +15,7 @@ I added some examples ordered in folders by programming language which helped me
 - [tldr man pages](https://tldr.sh/); short & handy summary of the very long man pages
 - [Handy cheatsheets](https://devhints.io): Various cheatsheets
 - [Handy documentation](https://devdocs.io/): Various documentation sheets (enable them to avoid 404)
+- [IHateRegex](https://ihateregex.io/): Various examples of useful regex's
 
 # Git
 - [Git-Fork](https://www.git-fork.com): A UI for git on Mac & Windows
