@@ -96,6 +96,9 @@ I added some examples ordered in folders by programming language which helped me
 - [POSHGUI](https://poshgui.com): winform gui on ps
 - [Timers](https://ephos.github.io/posts/2018-8-20-Timers): Using stopwatch in powershell
 
+# Tools
+- [Mockoon](https://mockoon.com): API mocks
+
 # Video / Tutorials
 - [NDC - Hanselman, Skeet, Allen](https://www.youtube.com/watch?v=H2KkiRbDZyc&feature=youtu.be): Very interesting insights into IENumerable vs IQueriable
 - [NDC - DDD talk](https://www.youtube.com/watch?v=U6CeaA-Phqo): Domain Driven Design: The Good Parts - Jimmy Bogard
