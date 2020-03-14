@@ -78,6 +78,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Architecture principles .net](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/architectural-principles)
 - [Architecture guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 - [Code review guidelines](https://google.github.io/eng-practices/review/reviewer/): Code review principles of google
+- [CQRS](https://codewithshadman.com/cqrs/): Article on Command-Query Responsibility Segregation (CQRS)
 - [Feature toggles](https://martinfowler.com/articles/feature-toggles.html): documenation on feature toggles
 - [Ports & Adapters](https://softwarecampament.wordpress.com/portsadapters/): Article on Hexagonal Architecture with ports & adapters
 
