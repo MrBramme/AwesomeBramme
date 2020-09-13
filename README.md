@@ -35,6 +35,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Async info](https://kudchikarsk.com/tasks-in-csharp/csharp-task/): An interesting read on c# task
 - [Autofac](https://autofac.org): IOC
 - [AutoMapper](http://automapper.org): Object mapping made easy
+- [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms): Repo containing cool info about datastructures & algorithms in C#
 - [Code snippets Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/code-snippets?view=vs-2015): Create code snippets in visual studio. Extension [Snippet Designer](https://marketplace.visualstudio.com/items?itemName=vs-publisher-2795.SnippetDesigner)
 - [CodeMaid](http://www.codemaid.net): Code Maid plugin for Visual studio. Cleaner code automatically
 - [CommandLineParser](https://github.com/commandlineparser/commandline): Parse arguments for the CLI
