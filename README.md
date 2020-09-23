@@ -20,6 +20,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Secure Code Warrior](https://securecodewarrior.com/): Gamification to learn about cybersecurity
 - [SWAPI](https://swapi.dev/): Star wars API
 - [Watson - CLI time tracker](http://tailordev.github.io/Watson/): CLI time tracker
+- [Zippopotamus API](https://www.zippopotam.us/): Zip code API
 
 # Git
 - [Git-Fork](https://www.git-fork.com): A UI for git on Mac & Windows
