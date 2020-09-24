@@ -59,6 +59,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Puppeteer-sharp](https://github.com/kblok/puppeteer-sharp): Headless chrome
 - [ReportGenerator](https://danielpalme.github.io/ReportGenerator/): Generate test reports
 - [Resharper CLI](https://www.youtube.com/watch?v=nHb-hb4teVI&feature=youtu.be): Resharper CLI tools for code analysis
+- [Resharper Templates](https://github.com/ByteDev/ByteDev.Resharper.Templates): Handy set of resharper templates
 - [RestSharp](http://restsharp.org): Simple HTTP Client
 - [Sharprompt](https://github.com/shibayan/Sharprompt): Interactive c# toolkit for dotnet core
 - [SonarQube](https://www.sonarqube.org/): Code analysis tool
