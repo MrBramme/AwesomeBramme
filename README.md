@@ -19,6 +19,7 @@ I added some examples ordered in folders by programming language which helped me
 - [IHateRegex](https://ihateregex.io/): Various examples of useful regex's
 - [Secure Code Warrior](https://securecodewarrior.com/): Gamification to learn about cybersecurity
 - [Security article: How hackers steal your keys and secrets](https://dev.to/omerxx/how-hackers-steal-your-keys-and-secrets-45g2): Interesting read!
+- [SecurityHeaders](https://securityheaders.com/): Check your security headers! (cfr video linked below: Content Security Policies: Let's Break Stuff)
 - [SWAPI](https://swapi.dev/): Star wars API
 - [Watson - CLI time tracker](http://tailordev.github.io/Watson/): CLI time tracker
 - [Zippopotamus API](https://www.zippopotam.us/): Zip code API
@@ -62,6 +63,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Resharper CLI](https://www.youtube.com/watch?v=nHb-hb4teVI&feature=youtu.be): Resharper CLI tools for code analysis
 - [Resharper Templates](https://github.com/ByteDev/ByteDev.Resharper.Templates): Handy set of resharper templates
 - [RestSharp](http://restsharp.org): Simple HTTP Client
+- [SecurityHeaders in ASPnet Core](https://www.hanselman.com/blog/easily-adding-security-headers-to-your-aspnet-core-web-app-and-getting-an-a-grade): Hanselman blogpost on security header settings for aspnet core web apps
 - [Sharprompt](https://github.com/shibayan/Sharprompt): Interactive c# toolkit for dotnet core
 - [SonarQube](https://www.sonarqube.org/): Code analysis tool
 - [Stateless](https://github.com/dotnet-state-machine/stateless): A simple state machine
@@ -113,3 +115,4 @@ I added some examples ordered in folders by programming language which helped me
 - [NDC - Hanselman, Skeet, Allen](https://www.youtube.com/watch?v=H2KkiRbDZyc&feature=youtu.be): Very interesting insights into IENumerable vs IQueriable
 - [NDC - DDD talk](https://www.youtube.com/watch?v=U6CeaA-Phqo): Domain Driven Design: The Good Parts - Jimmy Bogard
 - [Specflow: moving past the basics](https://joebuschmann.com/specflow-moving-beyond-the-basics/): A presentation with some more advanced specflow topics
+- [GOTO 2018 - Content Security Policies: Let's Break Stuff - Matt Brunt](https://www.youtube.com/watch?v=mr230uotw-Y): Great talk on XSS and the CSP header
