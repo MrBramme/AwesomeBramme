@@ -12,6 +12,7 @@ I added some examples ordered in folders by programming language which helped me
 - [Devops checklist](http://devopschecklist.com): the devops checklist
 - [Dotnet Tools List](https://natemcmaster.github.io/dotnet-tools/): List of various dotnet-tools
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Microsoft Blog](https://blogs.microsoft.com/): General microsoft blogs
 - [Redis](https://redislabs.com): In-Memory database
 - [tldr man pages](https://tldr.sh/); short & handy summary of the very long man pages
 - [Handy cheatsheets](https://devhints.io): Various cheatsheets
