@@ -31,3 +31,4 @@ Just a random list of dev related youtube content!
 [Red Hat Summit](https://www.youtube.com/channel/UC9CjkhQp1jX8Hbtbg6OZ9dw)  
 [CodeMash Conference](https://www.youtube.com/channel/UC8uJomag49kWDrchQbdHahQ)  
 [O'Reilly](https://www.youtube.com/channel/UC3BGlwmI-Vk6PWyMt15dKGw)  
+[Playlist on design patterns](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
